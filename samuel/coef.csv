@@ -1,0 +1,67 @@
+,col_name,coef
+4,ordinalencoder__smoker,27466.408769315192
+31,standardscaler__bmi ordinalencoder__smoker,6231.926039966746
+2,standardscaler__age,3222.575072410349
+21,standardscaler__age^2,771.9182315060876
+1,standardscaler__children,681.7764400739044
+34,standardscaler__bmi onehotencoder__region_northeast,432.64141136545265
+28,standardscaler__age onehotencoder__region_southeast,420.85308597829624
+56,onehotencoder__region_northeast^2,415.2969627666913
+18,standardscaler__children onehotencoder__region_northwest,272.4872774559835
+38,ordinalencoder__smoker^2,207.01556539159893
+29,standardscaler__age onehotencoder__region_southwest,119.74673083479809
+22,standardscaler__age standardscaler__bmi,101.05786373846205
+25,standardscaler__age ordinalencoder__BMI_category,92.41370829995654
+16,standardscaler__children ordinalencoder__BMI_category,88.30180598118116
+17,standardscaler__children onehotencoder__region_northeast,84.18537471550027
+51,ordinalencoder__BMI_category^2,69.95902512930144
+24,standardscaler__age ordinalencoder__sex,61.50469804883114
+13,standardscaler__children standardscaler__bmi,58.04146767683108
+52,ordinalencoder__BMI_category onehotencoder__region_northeast,55.48559490250629
+7,onehotencoder__region_northeast,50.45474434184055
+0,1,0.0
+19,standardscaler__children onehotencoder__region_southeast,-0.0
+23,standardscaler__age ordinalencoder__smoker,-0.0
+20,standardscaler__children onehotencoder__region_southwest,-0.0
+12,standardscaler__children standardscaler__age,-0.0
+15,standardscaler__children ordinalencoder__sex,0.0
+35,standardscaler__bmi onehotencoder__region_northwest,0.0
+37,standardscaler__bmi onehotencoder__region_southwest,0.0
+41,ordinalencoder__smoker onehotencoder__region_northeast,0.0
+27,standardscaler__age onehotencoder__region_northwest,0.0
+32,standardscaler__bmi ordinalencoder__sex,0.0
+8,onehotencoder__region_northwest,0.0
+9,onehotencoder__region_southeast,-0.0
+3,standardscaler__bmi,0.0
+62,onehotencoder__region_northwest onehotencoder__region_southwest,0.0
+59,onehotencoder__region_northeast onehotencoder__region_southwest,0.0
+60,onehotencoder__region_northwest^2,0.0
+61,onehotencoder__region_northwest onehotencoder__region_southeast,0.0
+53,ordinalencoder__BMI_category onehotencoder__region_northwest,-0.0
+55,ordinalencoder__BMI_category onehotencoder__region_southwest,-0.0
+57,onehotencoder__region_northeast onehotencoder__region_northwest,0.0
+58,onehotencoder__region_northeast onehotencoder__region_southeast,0.0
+49,ordinalencoder__sex onehotencoder__region_southeast,-0.0
+48,ordinalencoder__sex onehotencoder__region_northwest,0.0
+44,ordinalencoder__smoker onehotencoder__region_southwest,0.0
+47,ordinalencoder__sex onehotencoder__region_northeast,-0.0
+50,ordinalencoder__sex onehotencoder__region_southwest,-0.0
+39,ordinalencoder__smoker ordinalencoder__sex,0.0
+43,ordinalencoder__smoker onehotencoder__region_southeast,-0.0
+42,ordinalencoder__smoker onehotencoder__region_northwest,0.0
+64,onehotencoder__region_southeast onehotencoder__region_southwest,0.0
+63,onehotencoder__region_southeast^2,-0.0
+26,standardscaler__age onehotencoder__region_northeast,-5.943099114224105
+33,standardscaler__bmi ordinalencoder__BMI_category,-11.020809029106045
+46,ordinalencoder__sex ordinalencoder__BMI_category,-14.564539578389779
+14,standardscaler__children ordinalencoder__smoker,-54.52041223293887
+11,standardscaler__children^2,-81.61722033230043
+36,standardscaler__bmi onehotencoder__region_southeast,-107.09944697372161
+5,ordinalencoder__sex,-126.34214545513301
+30,standardscaler__bmi^2,-167.12805933523038
+54,ordinalencoder__BMI_category onehotencoder__region_southeast,-185.5909670241366
+10,onehotencoder__region_southwest,-210.3902446684156
+45,ordinalencoder__sex^2,-251.38300316011558
+6,ordinalencoder__BMI_category,-268.7043778785689
+65,onehotencoder__region_southwest^2,-394.9182370994801
+40,ordinalencoder__smoker ordinalencoder__BMI_category,-2623.1490581358685
