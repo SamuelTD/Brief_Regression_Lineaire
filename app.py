@@ -23,13 +23,6 @@ df['age_category'] = pd.cut(df['age'], bins=ages_bin_edges, labels=ages_bin_labe
 df['bmi_category'] = pd.cut(df['bmi'], bins=bmi_bin_edges, labels=bmi_bin_labels, right=False)
 
 
-import streamlit as st
-import pandas as pd
-import plotly.express as px
-import plotly.graph_objects as go
-from plotly.subplots import make_subplots
-from scipy.stats import pearsonr
-
 # Streamlit app title
 st.title("Market Research for Insurance Prices")
 
